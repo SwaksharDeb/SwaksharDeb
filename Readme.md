@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I am Swakshar Deb, Deep Learning enthusiastic passionate about Graph Signal Processing, Graph Neural Network, Reinforcement Learning and their application application on Computer vision.
+Hello, I am Swakshar Deb, Deep Learning enthusiastic passionate about Graph Signal Processing, Graph Neural Network, Reinforcement Learning and their application on Computer vision.
 
 <!--
 **fokhruli/fokhruli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
