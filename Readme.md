@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swakshar Deb</h1>
 <h3 align="center">Passionate Deep Learning Enthusiast | Building an Intelligent System</h3>
 <img align="right" alt="Coding" width="400" height="300" src="img/88zT.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uk-roy&label=Profile%20views&color=0e75b6&style=flat" alt="uk-roy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix" /> </p>
 
 - 🔭 I’m currently working on **Graph Nerual Network**
 
