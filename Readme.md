@@ -3,15 +3,15 @@
 <img align="right" alt="Coding" width="400" height="300" src="img/88zT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uk-roy&label=Profile%20views&color=0e75b6&style=flat" alt="uk-roy" /> </p>
 
-- 🔭 I’m currently working on **Robotic Manipulation**
+- 🔭 I’m currently working on **Graph Nerual Network**
 
-- 🌱 I’m currently learning **Continous Space Control Vision Based Reinforcement Learning**
+- 🌱 I’m currently learning **Geometric Deep Learning**
 
-- 👯 I’m looking to collaborate on **Reinforcement learning in robotics**
+- 👯 I’m looking to collaborate on **Application of Graph Signal Processing in Computer Vision**
 
-- 💬 Ask me about **Robotics**
+- 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **utsharoy99@gmail.com**
+- 📫 How to reach me **swakshar.sd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
