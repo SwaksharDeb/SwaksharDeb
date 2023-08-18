@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swakshar Deb</h1>
-<h3 align="center">Passionate about Graph Signal Processing, Graph Neural Network and Computer Vision</h3>
+<h3 align="center">Passionate about Graph Machine Learning, Graph Neural Network and Computer Vision</h3>
 <img align="right" alt="Coding" width="400" height="300" src="img/88zT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix" /> </p>
 
-- 🔭 I’m currently working on **Graph Signal Processing**
+- 🔭 I’m currently working on **Graph Machine Learning**
 
 - 🌱 I’m currently learning **Differential Geometry and their application in Equivarient Neural Net**
 
