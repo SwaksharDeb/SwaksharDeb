@@ -3,15 +3,9 @@
 <img align="right" alt="Coding" width="400" height="300" src="img/88zT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix" /> </p>
 
-- 🔭 I’m currently working on **Graph Machine Learning**
-
-- 🌱 I’m currently learning **Differential Geometry and their application in Equivarient Neural Net**
-
-- 💬 Feel free to ask me about **Machine Learning**
+- 🔭 I’m currently working on **Medical Imaging**
 
 - 📫 How to reach me **swakshar.sd@gmail.com**
-
-- ⚡ Fun fact: **I love to read theoretically grounded fundamental research papers in my spare times**
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
